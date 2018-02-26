@@ -2,7 +2,7 @@
 Fix to convert Adlib XML export to CSV file
 
 ## Synopsis
-This fix is used to convert a Adlib XML export to a CSV file using [Catmandu](http://librecat.org).
+This fix is used to convert an Adlib XML export to a CSV file using [Catmandu](http://librecat.org).
 
 Command line client:
 
